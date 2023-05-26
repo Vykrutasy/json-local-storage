@@ -1,0 +1,14 @@
+
+.inputs-box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buttons-box {
+    margin: auto;
+}
+
+button, .buttons-box {
+    width: 100px;
+    margin-top: 10px;
+}
